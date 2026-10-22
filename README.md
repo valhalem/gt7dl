@@ -45,21 +45,20 @@ GT7 Stats turns the data around your GT7 sessions into a practical, easy-to-scan
 
 ## Latest releases
 
-**Total APK downloads: 3**  
-<sub>Sum of GitHub's APK asset download counters across published builds. GitHub counters may update with a delay.</sub>
+**Total APK downloads: 0**
+<sub>Sum of GitHub APK asset download counters for the newest release of each version. GitHub counters can update with a delay.</sub>
 
 | Version | Build | APK download | Release notes |
 |---|---:|---|---|
-| **1.6.75** | 119 | [⬇ Download APK](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.75-119-ef97e35/GT7Stats-debug-v1.6.75-119.apk) | [Release](https://github.com/valhalem/gt7dl/releases/tag/debug-v1.6.75-119-ef97e35) |
-| **1.6.74** | 118 | [⬇ Download APK](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.74-118-527ff16/GT7Stats-debug-v1.6.74-118.apk) | [Release](https://github.com/valhalem/gt7dl/releases/tag/debug-v1.6.74-118-527ff16) |
+| **1.6.75** | 119 | [⬇ Download APK](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.75-119/GT7Stats-debug-v1.6.75-119.apk) | [Release](https://github.com/valhalem/gt7dl/releases/tag/debug-v1.6.75-119) |
+| **1.6.74** | 118 | [⬇ Download APK](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.74-118-4709ba4/GT7Stats-debug-v1.6.74-118.apk) | [Release](https://github.com/valhalem/gt7dl/releases/tag/debug-v1.6.74-118-4709ba4) |
 
 <!-- RELEASE_LIST_START -->
 <!-- RELEASE_LIST_END -->
 
 **[Browse GitHub releases](https://github.com/valhalem/gt7dl/releases)**
 
-Only the newest release for each app version is listed here. Duplicate builds of the same version are intentionally omitted from this summary.
-
+Only the newest release for each app version is listed here. Duplicate builds of the same version are omitted.
 ## Installation
 
 1. Download the APK from the release you want to test.
