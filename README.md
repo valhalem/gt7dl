@@ -1,21 +1,69 @@
-# GT7 Stats — wersje Debug
+# GT7 Stats for Android
 
-Publiczne miejsce pobierania testowych wersji aplikacji Android **GT7 Stats**. Repozytorium zawiera wyłącznie pliki instalacyjne i informacje o wydaniach; kod źródłowy pozostaje w prywatnym repozytorium [GT7stats](https://github.com/valhalem/GT7stats).
+GT7 Stats is a free Android companion app for Gran Turismo 7 players who want a clearer view of their Sport Mode performance, profile data, track results, and live driving telemetry.
 
-## Pobieranie
+This repository is the public distribution page for test builds of GT7 Stats. The application source code is maintained separately in the private [GT7stats repository](https://github.com/valhalem/GT7stats).
 
-**[Otwórz wszystkie wydania / pobierz APK](https://github.com/valhalem/GT7stats-downloads/releases)**
+## What the app does
 
-Po skonfigurowaniu sekretu publikacyjnego w prywatnym repozytorium nowe wydania pojawiają się automatycznie po pomyślnym przejściu testów jednostkowych, lint i budowania APK na gałęzi `main`.
+GT7 Stats turns the data around your GT7 sessions into a practical, easy-to-scan dashboard. It is designed for drivers who want to review progress between races, understand their results by track, and keep an eye on live telemetry while driving.
 
-Każde wydanie zawiera APK, informacje o wersji i commicie oraz plik `SHA256SUMS.txt` do sprawdzenia integralności pobrania.
+## Features
 
-## Instalacja
+- **Sport Mode dashboard** with key performance metrics and DR/SR history charts.
+- **Track statistics** with search, per-track summaries, and detailed track views.
+- **Achievement analysis** based on available and verified GT7 data.
+- **GT7 profile overview** covering career data, Driving, and World sections.
+- **UDP telemetry** grouped into driving and car data, including live vehicle information.
+- **Offline cache** for previously loaded data when a connection is unavailable.
+- **Local rating history** so progress can be reviewed over time.
+- **Secure session storage** for the local GT7 connection state.
 
-1. Pobierz plik APK z wybranego wydania.
-2. Otwórz go na urządzeniu z Androidem i zatwierdź instalację, jeśli system o to poprosi.
-3. Aby zaktualizować aplikację bez odinstalowania, zachowaj poprzednią instalację i używaj APK podpisanych tym samym kluczem Debug.
+> GT7 Stats only displays values that are available and verified. Estimated DR values are clearly treated as estimates rather than exact point totals.
 
-## Informacja o wydaniach
+## App mockups
 
-Są to kompilacje **Debug** przeznaczone do testowania, a nie oficjalne wydania produkcyjne. Nie używaj ich jako dowodu bezpieczeństwa ani integralności wydania produkcyjnego.
+These product mockups show the planned information architecture and visual direction. They are illustrative UI concepts, not screenshots from a live session.
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/mockups/sport-dashboard.svg" alt="GT7 Stats Sport Mode dashboard mockup" width="420"></td>
+    <td align="center"><img src="docs/mockups/track-stats.svg" alt="GT7 Stats track statistics mockup" width="420"></td>
+  </tr>
+  <tr>
+    <td align="center"><em>Sport Mode dashboard</em></td>
+    <td align="center"><em>Track statistics</em></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/mockups/telemetry.svg" alt="GT7 Stats UDP telemetry mockup" width="420"></td>
+    <td align="center"><img src="docs/mockups/profile.svg" alt="GT7 Stats player profile mockup" width="420"></td>
+  </tr>
+  <tr>
+    <td align="center"><em>Live UDP telemetry</em></td>
+    <td align="center"><em>GT7 profile overview</em></td>
+  </tr>
+</table>
+
+## Usage screenshots
+
+Screenshots from real app usage will be added here in a future update.
+
+## Download the latest build
+
+**[Open all releases and download an APK](https://github.com/valhalem/GT7stats-downloads/releases)**
+
+Each release includes the APK, version and commit information, plus a `SHA256SUMS.txt` file for verifying the download.
+
+## Installation
+
+1. Download the APK from the release you want to test.
+2. Open it on an Android device and approve the installation if Android asks for permission.
+3. To update without uninstalling, keep the previous installation and use APKs signed with the same debug key.
+
+## Release status
+
+These are debug builds for testing and feedback, not final production releases. Store publication is planned for approximately one month from now, subject to final testing and store review. The app will be free to download.
+
+## Related project
+
+- [GT7stats](https://github.com/valhalem/GT7stats) — application source code and development documentation.

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+  <title id="title">GT7 Stats track statistics mockup</title>
+  <desc id="desc">Dark track statistics screen with search, track list, lap time trend, and selected track detail.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111a24"/><stop offset="1" stop-color="#1b2b38"/></linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5de1c6"/><stop offset="1" stop-color="#4ca8ff"/></linearGradient>
+    <style>.h{font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:800;fill:#f3fbff}.l{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:18px;font-weight:700;letter-spacing:2px;fill:#8fa8b8}.b{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:22px;font-weight:700;fill:#e6f3f8}.s{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:18px;fill:#94adba}.m{fill:#6c8795}.grid{stroke:#2a4251;stroke-width:2}</style>
+  </defs>
+  <rect width="1440" height="900" rx="42" fill="url(#bg)"/><rect x="40" y="40" width="1360" height="820" rx="30" fill="#0d1720" stroke="#2c4655" stroke-width="2"/>
+  <rect x="40" y="40" width="390" height="820" rx="30" fill="#12222d"/><text x="78" y="100" class="h" font-size="28">TRACK LIBRARY</text><text x="78" y="132" class="s m">31 tracks · 84 saved sessions</text>
+  <rect x="78" y="175" width="314" height="58" rx="16" fill="#1d3440" stroke="#345161" stroke-width="2"/><circle cx="107" cy="203" r="12" fill="none" stroke="#8fa8b8" stroke-width="3"/><path d="M116 212l10 10" stroke="#8fa8b8" stroke-width="3" stroke-linecap="round"/><text x="145" y="211" class="s">Search tracks</text>
+  <text x="78" y="282" class="l">RECENTLY VIEWED</text>
+  <rect x="66" y="308" width="338" height="84" rx="18" fill="#28444f"/><circle cx="103" cy="350" r="24" fill="none" stroke="#5de1c6" stroke-width="5"/><path d="M89 357c12-20 22-20 29-2 7 17 15 15 22-8" fill="none" stroke="#5de1c6" stroke-width="4"/><text x="145" y="344" class="b" font-size="20">Kyoto Driving Park</text><text x="145" y="371" class="s">Full Course · 12 sessions</text>
+  <text x="90" y="438" class="b" font-size="20">Deep Forest Raceway</text><text x="90" y="466" class="s">Reverse · 8 sessions</text><text x="90" y="532" class="b" font-size="20">Dragon Trail</text><text x="90" y="560" class="s">Seaside · 6 sessions</text><text x="90" y="626" class="b" font-size="20">Suzuka Circuit</text><text x="90" y="654" class="s">Grand Prix · 5 sessions</text>
+  <path d="M78 740h314" stroke="#2c4655" stroke-width="2"/><text x="78" y="788" class="s m">SYNCED LOCALLY</text><text x="78" y="820" class="b" font-size="19">● Offline cache ready</text>
+  <text x="478" y="108" class="l">TRACK DETAILS</text><text x="478" y="158" class="h" font-size="40">Kyoto Driving Park</text><text x="478" y="194" class="s">Full Course · last updated 2 min ago</text>
+  <rect x="478" y="242" width="274" height="126" rx="20" fill="#172b37"/><text x="510" y="280" class="l">BEST LAP</text><text x="510" y="334" class="h" font-size="36">1:41.238</text><text x="510" y="356" class="s">personal best</text>
+  <rect x="774" y="242" width="274" height="126" rx="20" fill="#172b37"/><text x="806" y="280" class="l">AVERAGE</text><text x="806" y="334" class="h" font-size="36">1:43.802</text><text x="806" y="356" class="s">last 12 sessions</text>
+  <rect x="1070" y="242" width="290" height="126" rx="20" fill="#172b37"/><text x="1102" y="280" class="l">CONSISTENCY</text><text x="1102" y="334" class="h" font-size="36">92%</text><text x="1102" y="356" class="s">within 1.5 sec</text>
+  <rect x="478" y="406" width="882" height="358" rx="22" fill="#13242f"/><text x="510" y="452" class="b">Lap time trend</text><text x="510" y="479" class="s m">Recent sessions, fastest lap per session</text>
+  <path d="M532 686H1310M532 624H1310M532 562H1310M532 500H1310" class="grid"/><path d="M550 636L650 598L752 620L850 555L950 579L1050 530L1150 544L1265 500" fill="none" stroke="url(#cyan)" stroke-width="6" stroke-linecap="round"/><circle cx="1265" cy="500" r="8" fill="#5de1c6"/><text x="550" y="725" class="s m">SESSION 01</text><text x="1220" y="725" class="s m">SESSION 12</text><text x="510" y="520" class="s m">1:40</text><text x="510" y="680" class="s m">1:46</text>
+</svg>
