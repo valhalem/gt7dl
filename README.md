@@ -6,9 +6,13 @@ This repository is the public distribution page for test builds of GT7 Stats. Th
 
 > **📱 Android users: want to install GT7 Stats?**
 >
-> **[⬇️ DOWNLOAD THE LATEST APK](https://github.com/valhalem/GT7stats-downloads/releases/latest)**
->
-> Open this page in Chrome on your phone, tap the latest release, then download the `.apk` file under **Assets**. The screenshots and technical details below are optional — you do not need to read them to download the app.
+> Tap the green download button below to download the Android APK directly. You do not need to browse the release assets.
+
+<!-- APK_DOWNLOAD_LINK_START -->
+[![DOWNLOAD LATEST APK](https://img.shields.io/badge/ANDROID-DOWNLOAD%20APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.74-118-527ff16/GT7Stats-debug-v1.6.74-118.apk)
+
+**[Direct APK download](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.74-118-527ff16/GT7Stats-debug-v1.6.74-118.apk)**
+<!-- APK_DOWNLOAD_LINK_END -->
 
 ## What the app does
 
