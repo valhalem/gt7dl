@@ -4,6 +4,12 @@ GT7 Stats is a free Android companion app for Gran Turismo 7 players who want a 
 
 This repository is the public distribution page for test builds of GT7 Stats. The application source code is maintained separately from this public distribution repository.
 
+> **📱 Android users: want to install GT7 Stats?**
+>
+> **[⬇️ DOWNLOAD THE LATEST APK](https://github.com/valhalem/GT7stats-downloads/releases/latest)**
+>
+> Open this page in Chrome on your phone, tap the latest release, then download the `.apk` file under **Assets**. The screenshots and technical details below are optional — you do not need to read them to download the app.
+
 ## What the app does
 
 GT7 Stats turns the data around your GT7 sessions into a practical, easy-to-scan dashboard. It is designed for drivers who want to review progress between races, understand their results by track, and keep an eye on live telemetry while driving.
