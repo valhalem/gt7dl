@@ -2,7 +2,7 @@
 
 GT7 Stats is a free Android companion app for Gran Turismo 7 players who want a clearer view of their Sport Mode performance, profile data, track results, and live driving telemetry.
 
-This repository is the public distribution page for test builds of GT7 Stats. The application source code is maintained separately in the private.
+This repository is the public distribution page for test builds of GT7 Stats. The application source code is maintained separately from this public distribution repository.
 
 ## What the app does
 
@@ -23,13 +23,13 @@ GT7 Stats turns the data around your GT7 sessions into a practical, easy-to-scan
 
 ## Usage screenshots
 
-<img width="1220" height="2712" alt="Screenshot_2026-10-22-12-00-58-623_pl gt7stats" src="https://github.com/user-attachments/assets/6b69f068-515e-476f-b1cf-8956c0041e7d" />
-<img width="1220" height="2712" alt="Screenshot_2026-10-22-12-00-54-636_pl gt7stats" src="https://github.com/user-attachments/assets/98889a5a-c2b0-4e5a-93c3-a7c79ed4b310" />
-<img width="1220" height="2712" alt="Screenshot_2026-10-22-12-00-50-750_pl gt7stats" src="https://github.com/user-attachments/assets/6f907ef0-07b8-432e-9dfb-3ac599be3634" />
-<img width="1220" height="2712" alt="Screenshot_2026-10-22-12-00-48-072_pl gt7stats" src="https://github.com/user-attachments/assets/9c68b55e-e626-4fac-b5dd-ca46b4a37290" />
-<img width="1220" height="2712" alt="Screenshot_2026-10-22-12-00-43-220_pl gt7stats" src="https://github.com/user-attachments/assets/fa294f56-0566-4999-bf70-8e644e97d2e3" />
-<img width="1220" height="2712" alt="Screenshot_2026-10-22-12-00-38-827_pl gt7stats" src="https://github.com/user-attachments/assets/fb167147-84a8-4cd1-9aff-48547a713d55" />
-<img width="1220" height="2712" alt="Screenshot_2026-10-22-12-00-33-493_pl gt7stats" src="https://github.com/user-attachments/assets/e0b39f02-e515-4128-b0d2-9bf33f2ecf7e" />
+<p align="center"><a href="https://github.com/user-attachments/assets/6b69f068-515e-476f-b1cf-8956c0041e7d"><img width="260" alt="GT7 Stats usage screenshot 1" src="https://github.com/user-attachments/assets/6b69f068-515e-476f-b1cf-8956c0041e7d" /></a></p>
+<p align="center"><a href="https://github.com/user-attachments/assets/98889a5a-c2b0-4e5a-93c3-a7c79ed4b310"><img width="260" alt="GT7 Stats usage screenshot 2" src="https://github.com/user-attachments/assets/98889a5a-c2b0-4e5a-93c3-a7c79ed4b310" /></a></p>
+<p align="center"><a href="https://github.com/user-attachments/assets/6f907ef0-07b8-432e-9dfb-3ac599be3634"><img width="260" alt="GT7 Stats usage screenshot 3" src="https://github.com/user-attachments/assets/6f907ef0-07b8-432e-9dfb-3ac599be3634" /></a></p>
+<p align="center"><a href="https://github.com/user-attachments/assets/9c68b55e-e626-4fac-b5dd-ca46b4a37290"><img width="260" alt="GT7 Stats usage screenshot 4" src="https://github.com/user-attachments/assets/9c68b55e-e626-4fac-b5dd-ca46b4a37290" /></a></p>
+<p align="center"><a href="https://github.com/user-attachments/assets/fa294f56-0566-4999-bf70-8e644e97d2e3"><img width="260" alt="GT7 Stats usage screenshot 5" src="https://github.com/user-attachments/assets/fa294f56-0566-4999-bf70-8e644e97d2e3" /></a></p>
+<p align="center"><a href="https://github.com/user-attachments/assets/fb167147-84a8-4cd1-9aff-48547a713d55"><img width="260" alt="GT7 Stats usage screenshot 6" src="https://github.com/user-attachments/assets/fb167147-84a8-4cd1-9aff-48547a713d55" /></a></p>
+<p align="center"><a href="https://github.com/user-attachments/assets/e0b39f02-e515-4128-b0d2-9bf33f2ecf7e"><img width="260" alt="GT7 Stats usage screenshot 7" src="https://github.com/user-attachments/assets/e0b39f02-e515-4128-b0d2-9bf33f2ecf7e" /></a></p>
 
 
 ## Download the latest build
