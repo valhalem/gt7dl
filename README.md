@@ -1,18 +1,21 @@
 # GT7 Stats — wersje Debug
 
-Publiczne miejsce pobierania testowych wersji aplikacji Android **GT7 Stats**.
+Publiczne miejsce pobierania testowych wersji aplikacji Android **GT7 Stats**. Repozytorium zawiera wyłącznie pliki instalacyjne i informacje o wydaniach; kod źródłowy pozostaje w prywatnym repozytorium [GT7stats](https://github.com/valhalem/GT7stats).
 
-- **Pobieranie:** przejdź do [Releases](https://github.com/valhalem/GT7stats-downloads/releases).
-- **Najnowsza wersja:** pojawi się po skonfigurowaniu automatycznej publikacji z prywatnego repozytorium źródłowego.
-- **Weryfikacja pliku:** wydania będą zawierały sumę SHA-256, jeśli workflow publikacji zakończy się poprawnie.
+## Pobieranie
+
+**[Otwórz wszystkie wydania / pobierz APK](https://github.com/valhalem/GT7stats-downloads/releases)**
+
+Po skonfigurowaniu sekretu publikacyjnego w prywatnym repozytorium nowe wydania pojawiają się automatycznie po pomyślnym przejściu testów jednostkowych, lint i budowania APK na gałęzi `main`.
+
+Każde wydanie zawiera APK, informacje o wersji i commicie oraz plik `SHA256SUMS.txt` do sprawdzenia integralności pobrania.
 
 ## Instalacja
 
 1. Pobierz plik APK z wybranego wydania.
-2. Otwórz plik na urządzeniu z Androidem i zatwierdź instalację, jeśli system o to poprosi.
-3. Aby zainstalować nowszą wersję jako aktualizację, zachowaj poprzednią aplikację i upewnij się, że APK został podpisany tym samym kluczem debug.
+2. Otwórz go na urządzeniu z Androidem i zatwierdź instalację, jeśli system o to poprosi.
+3. Aby zaktualizować aplikację bez odinstalowania, zachowaj poprzednią instalację i używaj APK podpisanych tym samym kluczem Debug.
 
 ## Informacja o wydaniach
 
-To są kompilacje **Debug** przeznaczone do testów, a nie oficjalne wydania produkcyjne. Repozytorium zawiera wyłącznie pliki do pobrania i informacje o wydaniach; kod źródłowy pozostaje w prywatnym repozytorium [GT7stats](https://github.com/valhalem/GT7stats).
-
+Są to kompilacje **Debug** przeznaczone do testowania, a nie oficjalne wydania produkcyjne. Nie używaj ich jako dowodu bezpieczeństwa ani integralności wydania produkcyjnego.
