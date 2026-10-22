@@ -10,9 +10,9 @@ This repository is the public distribution page for test builds of GT7 Stats. Th
 
 <!-- APK_DOWNLOAD_LINK_START -->
 
-[![DOWNLOAD LATEST APK](https://img.shields.io/badge/ANDROID-DOWNLOAD%20APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.78-122/GT7Stats-debug-v1.6.78-122.apk)
+[![DOWNLOAD LATEST APK](https://img.shields.io/badge/ANDROID-DOWNLOAD%20APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.79-123/GT7Stats-debug-v1.6.79-123.apk)
 
-**[Direct APK download](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.78-122/GT7Stats-debug-v1.6.78-122.apk)**
+**[Direct APK download](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.79-123/GT7Stats-debug-v1.6.79-123.apk)**
 <!-- APK_DOWNLOAD_LINK_END -->
 
 ## What the app does
@@ -45,14 +45,14 @@ GT7 Stats turns the data around your GT7 sessions into a practical, easy-to-scan
 
 ## Latest releases
 
-**Total APK downloads: 3**
+**Total APK downloads: 0**
 <sub>Sum of GitHub APK asset download counters for the newest release of each version. GitHub counters can update with a delay.</sub>
 
 | Version | Build | APK download | Release notes |
 |---|---:|---|---|
+| **1.6.79** | 123 | [⬇ Download APK](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.79-123/GT7Stats-debug-v1.6.79-123.apk) | [Release](https://github.com/valhalem/gt7dl/releases/tag/debug-v1.6.79-123) |
 | **1.6.78** | 122 | [⬇ Download APK](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.78-122/GT7Stats-debug-v1.6.78-122.apk) | [Release](https://github.com/valhalem/gt7dl/releases/tag/debug-v1.6.78-122) |
 | **1.6.77** | 121 | [⬇ Download APK](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.77-121/GT7Stats-debug-v1.6.77-121.apk) | [Release](https://github.com/valhalem/gt7dl/releases/tag/debug-v1.6.77-121) |
-| **1.6.76** | 120 | [⬇ Download APK](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.76-120/GT7Stats-debug-v1.6.76-120.apk) | [Release](https://github.com/valhalem/gt7dl/releases/tag/debug-v1.6.76-120) |
 
 <!-- RELEASE_LIST_START -->
 <!-- RELEASE_LIST_END -->
