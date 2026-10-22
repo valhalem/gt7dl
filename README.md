@@ -21,32 +21,9 @@ GT7 Stats turns the data around your GT7 sessions into a practical, easy-to-scan
 
 > GT7 Stats only displays values that are available and verified. Estimated DR values are clearly treated as estimates rather than exact point totals.
 
-## App mockups
-
-These product mockups show the planned information architecture and visual direction. They are illustrative UI concepts, not screenshots from a live session.
-
-<table>
-  <tr>
-    <td align="center"><img src="docs/mockups/sport-dashboard.svg" alt="GT7 Stats Sport Mode dashboard mockup" width="420"></td>
-    <td align="center"><img src="docs/mockups/track-stats.svg" alt="GT7 Stats track statistics mockup" width="420"></td>
-  </tr>
-  <tr>
-    <td align="center"><em>Sport Mode dashboard</em></td>
-    <td align="center"><em>Track statistics</em></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="docs/mockups/telemetry.svg" alt="GT7 Stats UDP telemetry mockup" width="420"></td>
-    <td align="center"><img src="docs/mockups/profile.svg" alt="GT7 Stats player profile mockup" width="420"></td>
-  </tr>
-  <tr>
-    <td align="center"><em>Live UDP telemetry</em></td>
-    <td align="center"><em>GT7 profile overview</em></td>
-  </tr>
-</table>
-
 ## Usage screenshots
 
-Screenshots from real app usage will be added here in a future update.
+TBA
 
 ## Download the latest build
 
