@@ -45,7 +45,7 @@ GT7 Stats turns the data around your GT7 sessions into a practical, easy-to-scan
 
 ## Latest releases
 
-**Total APK downloads: 1**
+**Total APK downloads: 2**
 <sub>Sum of GitHub APK asset download counters for the newest release of each version. GitHub counters can update with a delay.</sub>
 
 | Version | Build | APK download | Release notes |
