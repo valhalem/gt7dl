@@ -14,7 +14,7 @@ This repository is the public distribution page for test builds of GT7 Stats. Th
 
 [![DOWNLOAD LATEST APK](https://img.shields.io/badge/ANDROID-DOWNLOAD%20APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.87-131/GT7Stats-debug-v1.6.87-131.apk)
 
-**[Direct APK download](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.87-131/GT7Stats-debug-v1.6.87-131.apk)** · [SHA-256 checksum file](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.87-131/SHA256SUMS.txt)
+**[Direct APK download](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.87-131/GT7Stats-debug-v1.6.87-131.apk)**
 <!-- APK_DOWNLOAD_LINK_END -->
 
 ## What the app does
@@ -48,7 +48,7 @@ GT7 Stats turns the data around your GT7 sessions into a practical, easy-to-scan
 
 ## Latest releases
 
-**Total APK downloads: 0**  
+**Total APK downloads: 0**
 <sub>Sum of GitHub APK asset download counters for the newest release of each version. GitHub counters can update with a delay.</sub>
 
 | Version | Build | APK download | Release notes |
@@ -57,19 +57,12 @@ GT7 Stats turns the data around your GT7 sessions into a practical, easy-to-scan
 | **1.6.86** | 130 | [⬇ Download APK](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.86-130/GT7Stats-debug-v1.6.86-130.apk) | [Release](https://github.com/valhalem/gt7dl/releases/tag/debug-v1.6.86-130) |
 | **1.6.84** | 128 | [⬇ Download APK](https://github.com/valhalem/gt7dl/releases/download/debug-v1.6.84-128/GT7Stats-debug-v1.6.84-128.apk) | [Release](https://github.com/valhalem/gt7dl/releases/tag/debug-v1.6.84-128) |
 
-### What's new in 1.6.87 (build 131)
-
-- Fixed LOGGER card lap counts so they reflect locally saved telemetry lap times instead of API lap totals.
-- The release notes report that unit tests, lint, and the APK build completed successfully in GitHub Actions.
-- APK SHA-256: `f4b47f71aaba983f00c2392ee000349aba2c5bcc5696ae321a9f4d23048c7cef`.
-
 <!-- RELEASE_LIST_START -->
 <!-- RELEASE_LIST_END -->
 
-**[Browse all GitHub releases](https://github.com/valhalem/gt7dl/releases)**
+**[Browse GitHub releases](https://github.com/valhalem/gt7dl/releases)**
 
 Only the newest release for each app version is listed here. Duplicate builds of the same version are omitted.
-
 ## Installation
 
 1. Download the APK from the release you want to test.
